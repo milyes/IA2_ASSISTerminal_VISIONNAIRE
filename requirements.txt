@@ -1,0 +1,5 @@
+nltk
+torch
+transformers
+diffusers
+accelerate

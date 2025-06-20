@@ -1,24 +1,37 @@
-# IA²_ASSISTerminal_VISIONNAIRE
+# IA2_ASSISTerminal_VISIONNAIRE
 
-🧠 **Modèle IA unique NetSecurePro** pour la cybersécurité, la détection d’intrusions et la génération de rapports intelligents.
+> Intelligence artificielle visionnaire par Zoubirou Mohammed Ilyes  
+> ORCID : https://orcid.org/0009-0007-7571-3178
 
----
+## 🔹 Description
 
-## 🛡️ Caractéristiques principales
-- 🔍 Analyse de trafic réseau
-- 🚨 Détection d'intrusions
-- 🧾 Génération de rapports de sécurité
-- 📊 Recommandations IA
-- 🔐 Signature cryptographique unique
-- 📁 Compatible Termux / Linux / Serveur sécurisé
+Ce projet exécute un terminal intelligent IA nommé **IA2_ASSISTerminal_VISIONNAIRE_CMD** :
+- 📸 Capture d’image (caméra)
+- 📡 Scan protocoles réseau (SSH, WebSocket…)
+- 🔐 Connexion distante SSH
+- 🛰️ Localisation en temps réel
+- 🎛️ Menu CLI intelligent
 
-## 📦 Installation rapide
+## 📁 Structure
+
+- `startup_ai2.sh` : menu principal IA
+- `ia2_engine.py` : moteur IA autonome
+- `vision_module.sh` : module caméra
+- `ssh_connect.sh` : SSH CLI
+- `scan_protocols.sh` : scan réseau + GPS
+
+## 🚀 Utilisation
+
 ```bash
-git clone https://github.com/milyes/IA2_ASSISTerminal_VISIONNAIRE
-cd IA2_ASSISTerminal_VISIONNAIRE
-python main.py
+chmod +x *.sh
+bash startup_ai2.sh
 ```
 
-## 🔗 Auteur
+## 📸 Visuel
+
+![Visuel IA](IA_VISIONNAIRE_COVER.png)
+
+## 🧠 Auteur
+
 Zoubirou Mohammed Ilyes  
-ORCID : https://orcid.org/0009-0007-7571-3178
+🔗 https://orcid.org/0009-0007-7571-3178
